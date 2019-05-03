@@ -9,4 +9,4 @@ see here (https://www.edureka.co/blog/git-tutorial/)
 
 [git - the simple guide](https://rogerdudler.github.io/git-guide/)
 
-[Git tutorial](https://www.vogella.com/tutorials/Git/article.html)
+[Git tutorial](https://www.vogella.com/tutorials/Git/article.html)(https://www.atlassian.com/git/tutorials/syncing)
